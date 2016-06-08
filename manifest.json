@@ -1,0 +1,12 @@
+{
+	"name": "Hello world",
+	"description": "simple chrome app made with <3",
+	"manifest_version": 2,
+	"version": "1",
+	"app": {
+		"background": {
+			"scripts":["main.js"]
+		}
+	}
+
+}
